@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3000px" height="673px" viewBox="0 0 3000 673" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.09375 3000 0.09375 3000 748 0 748 0 320.217159"></polygon>
+        <ellipse id="path-3" cx="4219.33545" cy="288.856562" rx="4218.96641" ry="288.856562"></ellipse>
+        <ellipse id="path-5" cx="4705.18697" cy="312.390567" rx="2267.04239" ry="249.382896"></ellipse>
+        <ellipse id="path-7" cx="3825.61613" cy="224.435514" rx="2803.68631" ry="289.435514"></ellipse>
+    </defs>
+    <g id="Page-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, -40.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g mask="url(#mask-2)">
+                <g transform="translate(-2719.298246, 105.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Oval-10" stroke="none" fill="none"></g>
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Oval-10" stroke="none" fill="#D4E6F4" fill-rule="evenodd" transform="translate(4705.186975, 312.390567) scale(-1, 1) rotate(4.000000) translate(-4705.186975, -312.390567) " xlink:href="#path-5"></use>
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <use id="Oval-10" stroke="none" fill="#D4E6F4" fill-rule="evenodd" transform="translate(3825.616131, 224.435514) scale(-1, 1) translate(-3825.616131, -224.435514) " xlink:href="#path-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

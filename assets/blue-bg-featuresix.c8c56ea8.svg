@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3001px" height="718px" viewBox="0 0 3001 718" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.0137904811" width="2999.80415" height="824.615439"></rect>
+        <ellipse id="path-3" cx="4219.06001" cy="379.897257" rx="4218.69099" ry="379.897257"></ellipse>
+    </defs>
+    <g id="Page-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1500.703971, 370.500000) scale(-1, 1) translate(-1500.703971, -370.500000) translate(0.703971, -42.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g mask="url(#mask-2)">
+                <g transform="translate(-2719.120725, 0.013790)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Oval-10" stroke="none" fill="none"></g>
+                    <ellipse id="Oval-10" stroke="none" fill="#D4E6F4" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(3830.890248, 382.031635) scale(-1, 1) translate(-3830.890248, -382.031635) " cx="3830.89025" cy="382.031635" rx="2572.20049" ry="339.945999"></ellipse>
+                    <ellipse id="Oval-10" stroke="none" fill="#D4E6F4" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(4104.995159, 421.486920) scale(-1, 1) translate(-4104.995159, -421.486920) " cx="4104.99516" cy="421.48692" rx="2572.20049" ry="339.945999"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

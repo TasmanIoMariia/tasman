@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3000px" height="556px" viewBox="0 0 3000 556" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.333103205" width="3000" height="730.666897"></rect>
+        <ellipse id="path-3" cx="3028.48122" cy="288.856562" rx="3027.69471" ry="288.856562"></ellipse>
+    </defs>
+    <g id="Page-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, -144.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g mask="url(#mask-2)">
+                <g transform="translate(-1573.000000, 144.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Oval-10" stroke="none" fill="none"></g>
+                    <path d="M2949.8358,492.958891 C4079.79401,492.958891 4995.80613,377.233701 4995.80613,234.479446 C4995.80613,91.7251896 4079.79401,-24 2949.8358,-24 C2805.13784,-24 2663.94825,-22.1022984 2527.74129,-18.4931489 C1600.29693,6.0818469 903.865459,110.005732 903.865459,234.479446 C903.865459,377.233701 1819.87758,492.958891 2949.8358,492.958891 Z" id="Oval-10" stroke="none" fill="#D4E6F4" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                    <ellipse id="Oval-10" stroke="none" fill="#D4E6F4" fill-rule="evenodd" mask="url(#mask-4)" cx="3106.00447" cy="293.479446" rx="2045.97034" ry="261.583863"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
